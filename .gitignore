@@ -1,4 +1,6 @@
 /venv
-/test_ignore
 .env
-/core/__pycache_
+db.sqlite3
+/__pycache__/
+/migrations/
+*.pyc
